@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashwat Mishra</h1>
+<h1 align="center">Hi 👋 <br/>I'm Shashwat Mishra</h1>
 <h3 align="center">A passionate Fullstack & DevOps developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=secrethash" alt="secrethash" /></a> </p>
