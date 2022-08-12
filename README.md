@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋 <br/>I'm Shashwat Mishra</h1>
 <h3 align="center">A passionate Fullstack & DevOps developer from India</h3>
 
+<p align="center"> <a href="https://profile.codersrank.io/user/secrethash/" target="_blank"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=secrethash&badges=2&show-avatar=true&style=--header-bg-color:%230e1117;--border-radius:10px;max-width:350px;border-color:%230e1117;" /></a> </p>
+<br/>
+
+<p align="center"> <a href="https://profile.codersrank.io/user/secrethash/" target="_blank"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=secrethash&skills=PHP,CSS,SCSS,HTML,JavaScript&show-other-skills=true&bg=eee&padding=5&width=550" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=secrethash" alt="secrethash" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pyr8ed" target="blank"><img src="https://img.shields.io/twitter/follow/pyr8ed?logo=twitter&style=for-the-badge" alt="pyr8ed" /></a> </p>
